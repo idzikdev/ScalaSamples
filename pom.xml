@@ -16,7 +16,7 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <maven.compiler.version>3.8.1</maven.compiler.version>
         <scala.maven.version>3.4.4</scala.maven.version>
-        <scala.library.version>2.13.1</scala.library.version>
+        <scala.library.version>2.13.9</scala.library.version>
     </properties>
 
     <dependencies>
